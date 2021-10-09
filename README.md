@@ -1,12 +1,18 @@
-### Gonçalo Folhas
+## Gonçalo Folhas
 
-`
-  "Age": 20
-  "Code in": "Python, Java, C/C++",
-  "Currently living in": "Coimbra",
-`
+> Personal Info
+> > 20 years old
+> > living in Coimbra
+> > currently in my 3rd year at UC (LEI)
+> > I like kebabs and coffee
 
-<!---
-GFolhas/GFolhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Programming
+> > Python
+> > Java
+> > C/C++
+
+> Social Media
+> > twitter: @gtavares521
+> > instagram: @gtavaress521
+> > discord: Gonçalo Tavares#3024
+> > spotify: Folhas
