@@ -1,7 +1,6 @@
 ### Gonçalo Folhas
 
-
-	```
+```
 {
   "Age": 20
   "Code in": "Python, Java, C/C++",
