@@ -12,7 +12,7 @@
 > > C/C++.
 
 > Social Media
-> > twitter: @gtavares521 //
-> > instagram: @gtavaress521 //
-> > discord: Gonçalo Tavares#3024 //
+> > twitter: @foIhas //
+> > instagram: @gfolhas //
+> > discord: Folhas#3024 //
 > > spotify: Folhas
