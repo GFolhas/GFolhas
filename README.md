@@ -15,6 +15,7 @@
 
 ### Social Media Platforms
 
+[<img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='discord' height='30' >](https://discordapp.com/users/431396411502886912/)
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30' >](https://www.instagram.com/gfolhas)
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/foIhas)
 [<img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white' alt='spotify' height='30'>](https://open.spotify.com/user/bod9g534sfym4sod4jul78opp?si=a28c51205a854dc9)
