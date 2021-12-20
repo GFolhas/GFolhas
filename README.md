@@ -1,18 +1,11 @@
 ## Gonçalo Folhas
 
-> Personal Info
-> > 20 years old
-> > living in Coimbra,
-> > currently in my 3rd year at UC (LEI).
-> > I like kebabs and coffee
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff">
 
-> Programming
-> > Python,
-> > Java,
-> > C/C++.
+![Folhas' GitHub stats](https://github-readme-stats.vercel.app/api?username=GFolhas&show_icons=true&theme=radical)
 
-> Social Media
-> > twitter: @foIhas //
-> > instagram: @gfolhas //
-> > discord: Folhas#3024 //
-> > spotify: Folhas
+![Top 4](https://github-readme-stats.vercel.app/api/top-langs/?username=GFolhas&show_icons=true&theme=radical)
+
+
+
