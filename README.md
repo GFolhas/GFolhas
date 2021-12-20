@@ -11,7 +11,6 @@
 
 ![Folhas' GitHub stats](https://github-readme-stats.vercel.app/api?username=GFolhas&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GFolhas&show_icons=true&theme=radical)
 
 ### Social Media Platforms
 
