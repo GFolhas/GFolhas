@@ -2,7 +2,7 @@
 
 ### Bio
 
-- Hi, I'm Gonçalo Folhas. I am currently 20 years old on my 3rd year in Computer Science 💻
+- Hi, I'm Gonçalo Folhas. I am currently 20 years old on my 1st year in a Computer Science Master's Degree 💻
 - I enjoy hooping with my friends 🏀 and listening to my spotify playlist 🎵 but more than that I enjoy not failing my subjects 😃
 
 ### GitHub Statistics
