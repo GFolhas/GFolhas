@@ -6,15 +6,6 @@
 - I acquired a grade of 18/20 on the topic of "Testing Automotive Hypervisors" at CISUC.
 - I enjoy hooping with my friends 🏀 and listening to my spotify playlist 🎵 but more than that I enjoy not failing my subjects 😃
 
-### GitHub Statistics
-
-
-
-![Folhas' GitHub stats](https://github-readme-stats.vercel.app/api?username=GFolhas&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GFolhas&show_icons=true&theme=radical)
-
-
 ### Social Media Platforms
 
 [<img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='discord' height='30' >](https://discordapp.com/users/431396411502886912/)
