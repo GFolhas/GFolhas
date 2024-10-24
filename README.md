@@ -2,7 +2,7 @@
 
 ### Bio
 
-- Hi, I'm Gonçalo Folhas. I am currently 22 years old and I just finished my Master's Degree in Software Engineering 💻
+- Hi, I'm Gonçalo Folhas. I am currently 23 years old and I just finished my Master's Degree in Software Engineering 💻
 - I acquired a grade of 18/20 on the topic of "Testing Automotive Hypervisors" at CISUC.
 - I enjoy hooping with my friends 🏀 and listening to my spotify playlist 🎵 but more than that I enjoy not failing my subjects 😃
 
